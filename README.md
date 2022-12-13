@@ -18,7 +18,7 @@ Connectons-nous !
 
 ### Plateformes : 
 <img src = './logo/jupyter.svg' width='60'/> <img src = './logo/visual-studio-code.svg' width='60'/><img src = './logo/git-icon.svg' width='60'/> <img src = './logo/github-icon.svg' width='60'/> 
- <img src = './logo/aws-s3.svg' width='60'/><img src = './logo/aws-ec2.svg' width='60'/><img src = './logo/aws-iam.svg' width='40'/>
+<img src = './logo/aws.svg' width='60'/> <img src = './logo/aws-s3.svg' width='60'/><img src = './logo/aws-ec2.svg' width='60'/><img src = './logo/aws-iam.svg' width='40'/>
 <img src = './logo/streamlit.svg' width='100'/><img src = './logo/heroku.svg' width='100'/>
 
 ## Diplômes et certifications
