@@ -13,7 +13,7 @@ Connectons-nous !
 ## ⚡ Technologies & Langages de programmation
 ### Langages et librairies : 
 <img src = './logo/python.svg' width='60'/><img src = './logo/numpy.svg' width='50'/> <img src = './logo/pandas.svg' width='100'/> <img src = './logo/matplotlib.svg' width='60'/> <img src = './logo/plotly.svg' width='70'/> <img src = './logo/seaborn.svg' width='100'/> <img src = './logo/scikit-learn.svg' width='80'/> <img src = './logo/keras.svg' width='60'/> <img src = './logo/tensorflow.svg' width='60'/>   <img src = './logo/apache-spark.svg' width='70'/> 
-<img src = './logo/r-lang.svg' width='60'/>  <img src = './logo/opencv.svg' width='60'/> <img src = './logo/microsoft-sql-server-logo-svgrepo-com.svg' width='60'/> 
+<img src = './logo/r-lang.svg' width='60'/>  <img src = './logo/opencv.svg' width='60'/> <img src = './logo/microsoft-sql-server-logo-svgrepo-com.svg' width='60'/> <img src = './logo/C.svg' width='60'/> 
 
 
 ### Plateformes : 
