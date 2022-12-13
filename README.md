@@ -22,4 +22,4 @@ Connectons-nous !
 <img src = './logo/streamlit.svg' width='100'/><img src = './logo/heroku.svg' width='100'/>
 
 ## Diplômes et certifications
- <img src = './logo/em.svg' width='60'/> <img src = './logo/OC.svg' width='80'/><img src = './logo/CentraleSupélec.svg' width='80'/><img src = './logo/Harvard.svg' width='80'/><img src = './logo/Paris-Saclay.svg' width='80'/>
+ <img src = './logo/em.svg' width='60'/> <img src = './logo/OC.svg' width='110'/><img src = './logo/CentraleSupélec.svg' width='110'/><img src = './logo/Harvard.svg' width='110'/><img src = './logo/Paris-Saclay.svg' width='110'/>
